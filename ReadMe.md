@@ -10,4 +10,4 @@
 
 
 
-![](D:\code\TingChina\img\1.gif)
+![](img/GIF.gif)
